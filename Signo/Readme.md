@@ -30,3 +30,8 @@ O sistema foi atualizado com as seguintes novidades:
   - Ano de nascimento deve conter 4 digitos: "1994, 1975, 1977"
 - Pequenas correções de indentação.
 
+
+
+#
+
+Copyright © 2020 Heitor Bisneto. All rights reserved.
