@@ -12,7 +12,6 @@ O programa verifica qual o signo do usuário de acordo com a data de nascimento.
 - Signo;
 
 
-#
 # Log de Atualizações
 #### Versão 1.1:
 
