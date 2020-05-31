@@ -9,3 +9,7 @@ No exemplo a seguir, foram abordados:
 
 # Bônus:
 - Fazer comentários no código;
+
+#
+
+Copyright © 2020 Heitor Bisneto. All rights reserved.
