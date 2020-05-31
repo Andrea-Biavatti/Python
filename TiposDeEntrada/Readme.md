@@ -8,6 +8,6 @@ No exemplo a seguir, foram abordados:
 - Inserção de informações por parte do usuário (input);
 - Quebra de linha;
 
-#Bônus:
+# Bônus:
 #
 - Fazer comentários no código;
