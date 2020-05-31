@@ -1,5 +1,4 @@
 # Tipos de Entrada
-#
 No exemplo a seguir, foram abordados:
 
 - Tipos de entrada: str;
@@ -9,5 +8,4 @@ No exemplo a seguir, foram abordados:
 - Quebra de linha;
 
 # Bônus:
-#
 - Fazer comentários no código;
