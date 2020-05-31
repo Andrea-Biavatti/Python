@@ -12,9 +12,9 @@ O programa verifica qual o signo do usuário de acordo com a data de nascimento.
 - Signo;
 
 
-
-# Informações sobre a Atualização
-
+#
+# Log de Atualizações
+#### Versão 1.1:
 
 
 O sistema foi atualizado com as seguintes novidades:
