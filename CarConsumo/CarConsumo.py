@@ -1,10 +1,14 @@
 from time import sleep
+from datetime import date
+AnoAtual = date.today().year
+SoftwareName = "CARCONSUMO"
 
-print("Heitor Bisneto [Versão 1.0]")
-print("(c) - 2020 Bisneto Inc. Todos os direitos reservados")
+print("Nome:", SoftwareName)
+print("Versão: 1.1")
+print("Criado por: Heitor Bisneto")
+print("Copyright © 2020 -", AnoAtual, "Bisneto. All rights reserved.")
 print("")
-SoftwareName = "CarConsumo"
-ProgressBar = "░"
+ProgressBar = "❚"
 ProgressBarSep = "*"
 
 QtdTanque = float(input("<" + SoftwareName + "\Capacidade do Tanque> "))
