@@ -15,3 +15,7 @@ Sistema obtém informações relevantes para cálculo de tarifas para transporte
 - Cálculos de valores totais de volta;
 - Possibilidade de incluir ou não tarifas adicionais;
 - Possibilidade de fazer projeção de tarifas de acordo com o período especificado;
+
+#
+
+Copyright © 2020 Heitor Bisneto. All rights reserved.
