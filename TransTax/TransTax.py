@@ -1,8 +1,13 @@
-print("Heitor Bisneto [Versão 1.0]")
-print("(c) - 2020 Bisneto Inc. Todos os direitos reservados")
-print("")   
+from datetime import date
+AnoAtual = date.today().year
+SoftwareName = "TRANSTAX"
 
-SoftwareName = "TransTax"
+print("Nome:", SoftwareName)
+print("Versão: 1.1")
+print("Criado por: Heitor Bisneto")
+print("Copyright © 2020 -", AnoAtual, "Bisneto. All rights reserved.")
+print("")
+
 Separator = ("=")*30
 BusTax = 0
 TrainTax = 0
