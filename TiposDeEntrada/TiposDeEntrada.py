@@ -1,6 +1,11 @@
-# Copyright (c) 2019-present, Heitor Bisneto.
-print("Heitor Bisneto [Versão 1.0]")
-print("(c) - 2019 Bisneto Inc. Todos os direitos reservados")
+from datetime import date
+AnoAtual = date.today().year
+SoftwareName = "TIPOS DE ENTRADA"
+
+print("Nome:", SoftwareName)
+print("Versão: 1.1")
+print("Criado por: Heitor Bisneto")
+print("Copyright © 2019 -", AnoAtual, "Bisneto. All rights reserved.")
 print("")
 
 #Para que o usuário possa digitar algo, é necessário usar o comando "input"
