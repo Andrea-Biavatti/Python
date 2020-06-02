@@ -14,7 +14,7 @@ Sudeste_Ida_Volta = str("850,00")
 Sul_Ida = str("200,00")
 Sul_Ida_Volta = str("350,00")
 
-print("Heitor Bisneto [Versão 1.0.1]")
+print("Heitor Bisneto [Versão 1.0.2]")
 print("(c) - 2020 Bisneto Inc. Todos os direitos reservados")
 
 print("")
@@ -32,20 +32,20 @@ Destino = str(input("<" + SoftwareName + "> " + "Digite o número da opção que
 print("")
 
 if Destino == "1":
-    print("<" + SoftwareName + "\Região Centro-Oeste> O preço da passagem de ida custa R$ " + CentroOeste_Ida)
-    print("<" + SoftwareName + "\Região Centro-Oeste> O preço das passagens de ida e volta custa R$ " + CentroOeste_Ida_Volta)
+    print("<" + SoftwareName + "\Região Centro-Oeste> O preço da passagem de ida é R$ " + CentroOeste_Ida)
+    print("<" + SoftwareName + "\Região Centro-Oeste> O preço das passagens de ida e volta é R$ " + CentroOeste_Ida_Volta)
 elif Destino == "2":
     print("<" + SoftwareName + "\Região Nordeste> O preço da passagem de ida custa R$ " + Nordeste_Ida)
-    print("<" + SoftwareName + "\Região Nordeste> O preço das passagens de ida e volta custa R$ " + Nordeste_Ida_Volta)
+    print("<" + SoftwareName + "\Região Nordeste> O preço das passagens de ida e volta é R$ " + Nordeste_Ida_Volta)
 elif Destino == "3":
     print("<" + SoftwareName + "\Região Norte> O preço da passagem de ida custa R$ " + Norte_Ida)
-    print("<" + SoftwareName + "\Região Norte> O preço das passagens de ida e volta custa R$ " + Norte_Ida_Volta)
+    print("<" + SoftwareName + "\Região Norte> O preço das passagens de ida e volta é R$ " + Norte_Ida_Volta)
 elif Destino == "4":
     print("<" + SoftwareName + "\Região Sudeste> O preço da passagem de ida custa R$ " + Sudeste_Ida)
-    print("<" + SoftwareName + "\Região Sudeste> O preço das passagens de ida e volta custa R$ " + Sudeste_Ida_Volta)
+    print("<" + SoftwareName + "\Região Sudeste> O preço das passagens de ida e volta é R$ " + Sudeste_Ida_Volta)
 elif Destino == "5":
     print("<" + SoftwareName + "\Região Sul> O preço da passagem de ida custa R$ " + Sul_Ida)
-    print("<" + SoftwareName + "\Região Sul> O preço das passagens de ida e volta custa R$ " + Sul_Ida_Volta)
+    print("<" + SoftwareName + "\Região Sul> O preço das passagens de ida e volta é R$ " + Sul_Ida_Volta)
 else:
     print("<" + SoftwareName + "> " + "A empresa X não trabalha com essa rota")
     Sugestao = str(input("<" + SoftwareName + "> " + "Gostaria de deixar uma sugestão de destino?[Y/N] "))
