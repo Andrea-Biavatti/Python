@@ -1,11 +1,14 @@
 from datetime import date
-print("Heitor Bisneto [Versão 1.1]")
-print("(c) - 2019-2020 Bisneto Inc. Todos os direitos reservados")
+AnoAtual = date.today().year
+SoftwareName = "SIGNO"
+
+print("Nome:", SoftwareName)
+print("Versão: 1.2")
+print("Criado por: Heitor Bisneto")
+print("Copyright © 2019 -", AnoAtual, "Bisneto. All rights reserved.")
 print("")
 
 
-SoftwareName = "Signo"
-AnoAtual = date.today().year
 MesNumber = 0
 Separator = "----xx----"
 MesNome = ""
