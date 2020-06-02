@@ -1,6 +1,13 @@
-print("Heitor Bisneto [Versão 1.0]")
-print("(c) - 2019 Bisneto Inc. Todos os direitos reservados")
+from datetime import date
+AnoAtual = date.today().year
+SoftwareName = "FOR"
+
+print("Nome:", SoftwareName)
+print("Versão: 1.1")
+print("Criado por: Heitor Bisneto")
+print("Copyright © 2019 -", AnoAtual, "Bisneto. All rights reserved.")
 print("")
+
 #Laço For:
 print("1. Laço FOR com a extensão de 10 números:")
 print("")
