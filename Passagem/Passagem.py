@@ -1,7 +1,15 @@
 #O algoritmo abaixo, le o destino do passageiro e mostra o preço da passagem
 #de acordo com a tabela abaixo
 from time import sleep
-SoftwareName = "Passagem"
+from datetime import date
+AnoAtual = date.today().year
+SoftwareName = "PASSAGEM"
+
+print("Nome:", SoftwareName)
+print("Versão: 1.1")
+print("Criado por: Heitor Bisneto")
+print("Copyright © 2020 -", AnoAtual, "Bisneto. All rights reserved.")
+print("")
 
 CentroOeste_Ida = str("300,00")
 CentroOeste_Ida_Volta = str("550,00")
@@ -14,10 +22,6 @@ Sudeste_Ida_Volta = str("850,00")
 Sul_Ida = str("200,00")
 Sul_Ida_Volta = str("350,00")
 
-print("Heitor Bisneto [Versão 1.0.2]")
-print("(c) - 2020 Bisneto Inc. Todos os direitos reservados")
-
-print("")
 print("="*80)
 print("             DESTINO                    IDA                         IDA E VOLTA")
 print("="*80)
