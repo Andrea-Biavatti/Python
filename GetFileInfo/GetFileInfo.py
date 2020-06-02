@@ -1,11 +1,13 @@
 import time
 import os
+from datetime import date
+AnoAtual = date.today().year
+SoftwareName = "GetFileInfo"
 
-print("Criado por Heitor Bisneto em 05/03/20.")
-print("Copyright © 2020 Heitor. All rights reserved.")
-print()
-SoftwareName = "Get Info"
-print("App Name: ", SoftwareName + " [Versão 1.0]")
+print("Nome:", SoftwareName)
+print("Versão: 1.1")
+print("Criado por: Heitor Bisneto")
+print("Copyright © 2020 -", AnoAtual, "Bisneto. All rights reserved.")
 print("")
 Separator = ("=" * 20)
 print(Separator + " " + SoftwareName + " " + Separator)
