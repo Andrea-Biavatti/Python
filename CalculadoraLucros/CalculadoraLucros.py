@@ -1,7 +1,12 @@
-print("Heitor Bisneto [Versão 1.0]")
-print("(c) - 2019-2020 Bisneto Inc. Todos os direitos reservados")
+from datetime import date
+AnoAtual = date.today().year
+SoftwareName = "CALCULADORA DE LUCROS"
+
+print("Nome:", SoftwareName)
+print("Versão: 1.1")
+print("Criado por: Heitor Bisneto")
+print("Copyright © 2020 -", AnoAtual, "Bisneto. All rights reserved.")
 print("")
-print("*Calculadora de lucros*\n")
 # Use somente números no campo. Não use vírgulas. Use Ponto final no lugar de vírgulas.
 ValorTotal = float(input("<Valor Total do Produto> "))
 # Use somente números. Não use sinal de porcentagem
