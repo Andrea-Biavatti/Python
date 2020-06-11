@@ -11,6 +11,13 @@ Repositório de exemplos de códigos em Python. Alguns dos exemplos manipulam da
 > Observação: Os exemplos desse repositório não foram testados em ambiente Linux até a data da atualização desse arquivo. Essa tarefa ainda está pendente e completarei em breve.
 > <br> Para mais informações, fique atento às atualizações desse documento.
 
+#### Contribua com esse repositório:
+
+- Se você acha que pode ajudar alguém a aprender a linguagem, compartilha. Manda o link pro coleguinha!
+- Se encontrou algum erro e puder enviar a correção, agradecerei imensamente!
+- Se tiver alguma ideia, manda pra mim.
+- Se tiver alguma dúvida sobre algo, pergunte.
+- Contribua!
 
 #
 
