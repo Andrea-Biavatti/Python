@@ -9,7 +9,6 @@ Uma calculadora básica desenvolvida para executar as principais funções de c�
 
 O cálculo é feito de acordo com os valores inseridos pelo usuário.
 
-#
 
 # Simple Calculator - Log
 
