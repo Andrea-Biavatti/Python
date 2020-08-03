@@ -54,8 +54,8 @@ O sistema conta com 7 opções:
 <br> - "SV6.png"
 <br> - "SV7.png"
 <p>Você também pode continuar neste arquivo para as seções: 
-<br> - "**Sistema de Vendas - Coletando dados: Demo**"
-<br> - "**Sistema de Vendas - Opções do Sistema: Demo**"
+<br> - **Sistema de Vendas - Coletando dados: Demo**
+<br> - **Sistema de Vendas - Opções do Sistema: Demo**
 
 ## Sistema de Vendas - Coletando Dados: DEMO
 
