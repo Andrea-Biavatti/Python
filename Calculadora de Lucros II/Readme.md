@@ -32,7 +32,7 @@ A função **Projecao()** processam os dados inseridos dentro de uma semana.
 ```
 ATENÇÃO:
 
-Cada inserção de dados para processamento equivalem a um dia na semana.
+Cada inserção de dados para processamento equivale a um dia na semana.
 ```
 
 #
