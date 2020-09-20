@@ -47,7 +47,6 @@ if Demo == "Y" or Demo == "y" or Demo == "1":
     except:
         print("\n*** MENSAGEM DE TRATATIVA DE ERRO: FORA DOS ÍNDICES DA MATRIZ ***")
 elif Demo == "N" or Demo == "n" or Demo == "0":
-#else:
     Frase = str(input("Escreva uma frase: "))
     WordSplit = Frase.split()
     MyArray = []
