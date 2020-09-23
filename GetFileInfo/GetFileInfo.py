@@ -20,7 +20,7 @@ with os.scandir(MyDir) as entries:
             Criado = time.strftime('%d %m %Y', time.gmtime(os.stat(entry).st_ctime))
             Modificado = time.strftime('%d %m %Y', time.gmtime(os.path.getmtime(entry)))
 
-            print("Nome do arquivo: ",entry.name)
-            print("Criado em: ",Criado)
-            print("Modificado em: ",Modificado)
+            print("Nome do arquivo: ", entry.name)
+            print("Criado em: ", Criado)
+            print("Modificado em: ", Modificado)
             print()
