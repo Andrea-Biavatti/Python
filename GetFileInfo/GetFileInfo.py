@@ -5,7 +5,7 @@ AnoAtual = date.today().year
 SoftwareName = "GetFileInfo"
 
 print("Nome:", SoftwareName)
-print("Versão: 1.1")
+print("Versão: 1.2")
 print("Criado por: Heitor Bisneto")
 print("Copyright © 2020 -", AnoAtual, "Bisneto. All rights reserved.")
 print("")
