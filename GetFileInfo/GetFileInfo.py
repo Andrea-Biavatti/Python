@@ -17,7 +17,6 @@ MyDir = 'C:/'
 with os.scandir(MyDir) as entries:
     for entry in entries:
         if entry.is_file():
-            #Criado = os.stat(entry).st_ctime
             Criado = time.strftime('%d %m %Y', time.gmtime(os.stat(entry).st_ctime))
             Modificado = time.strftime('%d %m %Y', time.gmtime(os.path.getmtime(entry)))
 
