@@ -34,3 +34,7 @@ A função ***MediaCalc()*** permite que o usuário escolha um período de cálc
 * A função pode ser executada mais de uma vez após a execução da função ***Dados()***
 
 A função também retorna **Nome do Aluno**, **Média**, **Pontos Necessários para Aprovação** e valor da **Nota Acima da Média**
+
+#
+
+Copyright © 2020 Heitor Bisneto. All rights reserved.
