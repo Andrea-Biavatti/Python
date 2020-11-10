@@ -30,12 +30,12 @@ O sistema conta com 7 opções:
 
 ### - Converter
 <strong> 4. Converter para JSON: </strong>
-<br> Conversão em JSON: A quarta opção do sistema converte o relatório diário em um arquivo .json
+<br> Conversão em JSON: A quarta opção do sistema converte o relatório diário em um arquivo ```.json```
 <br> Se o arquivo já for um arquivo existente, os dados serão complementados no momento da conversão. Assim como no processo de "Salvamento do Relatório".
 <br>
 <br><strong> 5. Converter para XML: </strong>
-<br> Conversão em XML: Nessa opção, o sistema converte o relatório diário em um arquivo .xml
-<br> Se o arquivo já for um arquivo existente, os dados serão complementados no momento da conversão. Assim como nos processo de "Conversão para JSON" e "Salvamento do Relatório".
+<br> Conversão em XML: Nessa opção, o sistema converte o relatório diário em um arquivo ```.xml```
+<br> Se o arquivo já for um arquivo existente, os dados serão complementados no momento da conversão. Assim como nos processos de "Conversão para JSON" e "Salvamento do Relatório".
 <br>
 <br><strong> 6. Ler arquivo JSON: </strong>
 <br> Essa opção acessa o arquivo JSON e mostra na tela o conteúdo do arquivo.
