@@ -97,7 +97,7 @@ Gostaria de vender um produto? [S ou N]: N
 (4) ConvertToJSON = Converte o arquivo para JSON.
 (5) ConvertToXML = Converte o arquivo para XML.
 (6) LerJSON = Ler arquivo JSON.
-(7) LerXML =	Ler arquivo XML.
+(7) LerXML = Ler arquivo XML.
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
@@ -138,7 +138,7 @@ Relatório impresso com sucesso!
 (4) ConvertToJSON = Converte o arquivo para JSON.
 (5) ConvertToXML = Converte o arquivo para XML.
 (6) LerJSON = Ler arquivo JSON.
-(7) LerXML =	Ler arquivo XML.
+(7) LerXML = Ler arquivo XML.
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
@@ -169,7 +169,7 @@ Arquivo salvo com sucesso
 (4) ConvertToJSON = Converte o arquivo para JSON.
 (5) ConvertToXML = Converte o arquivo para XML.
 (6) LerJSON = Ler arquivo JSON.
-(7) LerXML =	Ler arquivo XML.
+(7) LerXML = Ler arquivo XML.
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
@@ -210,7 +210,7 @@ Média de Vendas por Hora: 0.22857142857142856 vendas por hora
 (4) ConvertToJSON = Converte o arquivo para JSON.
 (5) ConvertToXML = Converte o arquivo para XML.
 (6) LerJSON = Ler arquivo JSON.
-(7) LerXML =	Ler arquivo XML.
+(7) LerXML = Ler arquivo XML.
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
@@ -243,7 +243,7 @@ Arquivo convertido com sucesso
 (4) ConvertToJSON = Converte o arquivo para JSON.
 (5) ConvertToXML = Converte o arquivo para XML.
 (6) LerJSON = Ler arquivo JSON.
-(7) LerXML =	Ler arquivo XML.
+(7) LerXML = Ler arquivo XML.
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
@@ -276,7 +276,7 @@ Arquivo convertido com sucesso
 (4) ConvertToJSON = Converte o arquivo para JSON.
 (5) ConvertToXML = Converte o arquivo para XML.
 (6) LerJSON = Ler arquivo JSON.
-(7) LerXML =	Ler arquivo XML.
+(7) LerXML = Ler arquivo XML.
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
@@ -327,7 +327,7 @@ O que deseja fazer agora? 6
 (4) ConvertToJSON = Converte o arquivo para JSON.
 (5) ConvertToXML = Converte o arquivo para XML.
 (6) LerJSON = Ler arquivo JSON.
-(7) LerXML =	Ler arquivo XML.
+(7) LerXML = Ler arquivo XML.
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
@@ -379,7 +379,7 @@ O que deseja fazer agora? 7
 (4) ConvertToJSON = Converte o arquivo para JSON.
 (5) ConvertToXML = Converte o arquivo para XML.
 (6) LerJSON = Ler arquivo JSON.
-(7) LerXML =	Ler arquivo XML.
+(7) LerXML = Ler arquivo XML.
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
